@@ -1,2 +1,2 @@
 # 8bitcpu
-8 bit CPU description in Verilog
+8 bit CPU in Verilog
